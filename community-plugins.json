@@ -61221,14 +61221,7 @@
     "description": "Run Oh My Pi, DeepSeek Harness, Claude Code, Codex, Grok, OpenCode and Pi inside your vault as chat collaborators. A fork of Claudian with provider readiness checks, a capability matrix and a token usage meter. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "serena-sheng/super-useful-claudian"
   },
-  {
-    "id": "curtis-ai-audit",
-    "name": "Curtis AI Audit",
-    "author": "Jordan Newell",
-    "description": "Local-first audit trail for AI agent activity. Every agent inference gets an append-only markdown receipt in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jordannewell/curtis-ai-audit"
-  },
-  {
+    {
     "id": "curtis-ai-chat-porter",
     "name": "Curtis Porter",
     "author": "Jordan Newell",
